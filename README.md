@@ -28,7 +28,7 @@ I update this repo regularly as I learn new concepts and complete new assignment
 - Feel free to clone, fork, or use these codes for your learning!
 
 ```bash
-git clone https://github.com/amritrajgarg/java-uni-labs.git
+git clone https://github.com/AmritRajGarg/Java-Basics-to-Intermediate
 ```
 
 ---
