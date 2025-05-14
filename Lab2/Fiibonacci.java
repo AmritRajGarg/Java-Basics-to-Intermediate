@@ -1,4 +1,7 @@
-//WAP In java to generate a Fibonacci series up to a user-defined maximum value.
+/*
+This Java program generates the Fibonacci series up to a user-defined maximum value. 
+It also highlights even Fibonacci numbers with an asterisk (*) for easy identification.
+*/
 
 import java.util.Scanner;
 
