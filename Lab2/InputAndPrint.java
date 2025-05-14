@@ -1,4 +1,7 @@
-//WAP in Java to take your name as input and display the name.
+/*
+This simple Java program prompts the user to enter their name and then greets them with a message. 
+It's a basic example of how to accept string input from the console using the Scanner class.
+*/
 
 import java.util.Scanner;
 class InputAndPrint
