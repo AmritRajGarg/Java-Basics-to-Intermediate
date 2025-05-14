@@ -1,5 +1,4 @@
-//WAP in Java to add two numbers using command-line input.
-
+//This Java program adds two integers provided via command-line arguments and displays the result. It includes basic error handling for incorrect or missing input.
 
 public class AddTwoNumbers {
     public static void main(String[] args) {
