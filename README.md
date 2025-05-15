@@ -1,4 +1,4 @@
-# Java Programming Repository 🚀
+# Java Basics to Intermediate 🚀
 
 Welcome to my Java Codes repository!  
 Here, I share all the Java programs I have been learning at my university — from **basic concepts** to **intermediate-level** projects and exercises.
