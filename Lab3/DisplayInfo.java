@@ -1,3 +1,11 @@
+/*
+A simple Java program demonstrating basic OOP concepts — classes, objects, and methods.
+
+💡 Features
+Define a Student class with rollNo and name
+Insert and display student records using methods
+*/
+
 
 class Student {
     int rollNo;
