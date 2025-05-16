@@ -1,17 +1,24 @@
-/* Wap in java
-Take user input for three students
-Insert roll no and name of three students and display them
-While operate methods to insert and display the info
-Program must contain two classes
-Output 
-Enter student name:
-Enter student roll no:
- 
-The students present in database are 
-111 Brad
-222 tom
-333  Peter
-*/
+# 📘 Student Database (Java)
+
+This is a simple Java console program that takes input from the user to store and display information about three students using basic **OOP concepts**.
+
+---
+
+## 💡 Features
+- Uses a `Student` class with `rollNo` and `name`
+- Accepts user input using `Scanner`
+- Stores data for 3 students and displays it
+
+---
+
+## 📦 How It Works
+1. Takes student name and roll number as input
+2. Stores each student’s data using `insertRecord()`
+3. Displays the information using `dispInfo()`
+
+---
+
+## 🖥️ Sample Output
 
 
 import java.util.Scanner;
