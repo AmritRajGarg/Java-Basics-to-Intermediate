@@ -1,6 +1,7 @@
+/*
 # 📘 Student Database (Java)
 
-This is a simple Java console program that takes input from the user to store and display information about three students using basic **OOP concepts**.
+This is a simple Java console program that takes input from the user to store and display information about three students using basic OOP concepts.
 
 ---
 
@@ -19,7 +20,18 @@ This is a simple Java console program that takes input from the user to store an
 ---
 
 ## 🖥️ Sample Output
+Enter student name: Alice
+Enter student roll no: 101
+Enter student name: Bob
+Enter student roll no: 102
+Enter student name: Charlie
+Enter student roll no: 103
 
+The students present in the database are:
+101 Alice
+102 Bob
+103 Charlie
+*/
 
 import java.util.Scanner;
  
