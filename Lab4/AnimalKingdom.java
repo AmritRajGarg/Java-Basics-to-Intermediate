@@ -1,11 +1,13 @@
 /*
+Animal Kingdom Model
+This Java program models an animal kingdom using inheritance.
 
-WAP in java to model the animal kingdom
-animals are of two kinds birds and mammals 
-you need to create a bird and a mammal object and display its characterstics 
-list of charactrrstics no of wings no of limbs demonstrate the inheritance oops concept by 
-a)identifying classes
-b) identifying which characterstic belongs to which class
+It features:
+
+A base Animal class with common traits (name, numberOfLimbs).
+Bird and Mammal subclasses that inherit from Animal and add their unique characteristics (e.g., numberOfWings for birds).
+Method overriding to display specific details for each animal type.
+The program creates an Eagle (Bird) and a Tiger (Mammal) to demonstrate how these objects display their inherited and unique traits.
 */
 
 
