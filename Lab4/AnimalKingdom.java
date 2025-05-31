@@ -6,12 +6,6 @@ you need to create a bird and a mammal object and display its characterstics
 list of charactrrstics no of wings no of limbs demonstrate the inheritance oops concept by 
 a)identifying classes
 b) identifying which characterstic belongs to which class
-
-Author: Amrit Raj Garg,
-Batch: 09 CSF SEM4,
-Roll no: R2142231705,
-Sap: 500125545,
-7 Feburary 2025, 
 */
 
 
