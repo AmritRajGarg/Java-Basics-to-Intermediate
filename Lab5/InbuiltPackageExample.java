@@ -1,5 +1,15 @@
+//WAP a prog in java to demonstrate the use of an inbuilt package in java use a package that you have not used till this point
+
 /*
-WAP a prog in java to demonstrate the use of an inbuilt package in java use a package that you have not used till this point and write the characteristics of that package
+Program: Demonstration of Inbuilt Java Package - java.time
+Purpose: This Java program shows how to use the java.time package to work with date and time.
+
+✅ Package Used: java.time
+Key Classes:
+LocalDate – represents date (year-month-day).
+LocalTime – represents time (hour-minute-second).
+LocalDateTime – combines date and time.
+DateTimeFormatter – formats date/time into a readable format.
 */
 
 
