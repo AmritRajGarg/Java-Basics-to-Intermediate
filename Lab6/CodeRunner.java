@@ -1,11 +1,5 @@
 /* WAP in java to demonstrate the use of a simple interface. 
 Show how the interface can be used by a class. 
-
-Author: Amrit Raj Garg,
-Batch: 09 CSF SEM4,
-Roll no: R2142231705,
-Sap: 500125545,
-18 Feb 2025
 */
  
 interface Shape {
