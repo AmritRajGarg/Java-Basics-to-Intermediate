@@ -1,10 +1,23 @@
 /* 
+# Java Stack Interface Implementation
+
 ~ Write a Java program that defines an interface StackInterface with
 three methods: push(), pop(), and display().
 ~ Implement this interface in a class called StackClass.
 ~ The StackClass should also contain the main method, where a
 switch-case structure is used to allow users to select and perform
 stack operations. 
+
+## Description
+This program demonstrates the use of **interfaces** in Java.
+It defines a `StackInterface` with methods `push()`, `pop()`, and `display()`, which are implemented in the `StackClass`.
+
+## Features
+- Create a stack of user-defined size
+- Perform stack operations using a switch-case menu:
+  - Push an element
+  - Pop an element
+  - Display stack contents.
 */
 
 import java.util.Scanner;
