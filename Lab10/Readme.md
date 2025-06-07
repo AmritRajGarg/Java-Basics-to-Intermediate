@@ -3,4 +3,4 @@
 Will update with full description, process, and softwares required.
 
 ## Status
-🚧 Work in progress. Detailed information coming soon.
+🚧 Sorry for the delay, will add detailed description soon.
